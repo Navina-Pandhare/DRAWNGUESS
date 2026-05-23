@@ -1,0 +1,56 @@
+0 alarm clock
+1 apple
+2 axe
+3 backpack
+4 baseball 
+5 basket 
+6 bat
+7 book
+8 butterfly
+9 cactus
+10 cake
+11 candle
+12 car
+13 cat
+14 crown
+15 cup
+16 diamond
+17 donut
+18 drums
+19 duck
+20 eraser
+21 eye
+22 eyeglasses
+23 fan
+24 fish
+25 flower
+26 grapes
+27 hammer
+28 hat
+29 hexagon
+30 hourglass
+31 house
+32 ice cream
+33 leaf
+34 lollipop
+35 moon
+36 mountain
+37 necklace
+38 pants
+39 pencil
+40 pizza
+41 rainbow
+42 scissors
+43 see saw
+44 snowman
+45 star
+46 sun
+47 table
+48 teapot
+49 test
+50 train
+51 tree
+52 umbrella
+53 val
+54 wheel
+
